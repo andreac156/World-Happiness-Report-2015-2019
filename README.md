@@ -16,5 +16,7 @@ Project is divided into 5 folders:
 World Happiness Data https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 Geo/JSON World Map https://datahub.io/core/geo-countries#resource-countries
+
 Inflation Rates Data https://data.nasdaq.com/data/RATEINF/INFLATION_EUR-inflation-yoy-euro-area
+
 Tableau link https://public.tableau.com/app/profile/andrea5202/viz/WorldHappinessReport_16889417972760/Story1?publish=yes
